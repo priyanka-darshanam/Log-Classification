@@ -37,9 +37,3 @@ Upload a CSV file containing logs to the FastAPI endpoint. Ensure it has:
 - `log_message`
 
 The output CSV will include an additional column `target_label`, representing the classified log category.
-
-## Repository
-[GitHub Repository](https://github.com/priyanka-darshanam/Log-Classification) 🚀
-
----
-**Note:** This project is intended for learning and research purposes.
