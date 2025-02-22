@@ -1,4 +1,4 @@
-# Log Classification with Hybrid Framework
+# Log Classification
 
 ## Overview
 This project implements a hybrid log classification system that combines multiple approaches to handle diverse log patterns effectively. It ensures flexibility and accuracy in processing structured, complex, and poorly labeled log data.
